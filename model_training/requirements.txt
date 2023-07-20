@@ -1,0 +1,6 @@
+ipykernel
+tensorflow
+numpy
+keras
+scipy
+tensorflow-model-optimization

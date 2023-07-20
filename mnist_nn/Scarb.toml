@@ -1,0 +1,9 @@
+[package]
+name = "mnist_nn"
+version = "0.1.0"
+
+[dependencies]
+orion = { git = "https://github.com/gizatechxyz/orion.git" }
+
+[scripts]
+test = "scarb cairo-test -f mnist_nn_test"
